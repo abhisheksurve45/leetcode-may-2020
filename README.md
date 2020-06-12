@@ -1,6 +1,9 @@
 # Solutions for Leetcode May 2020 in `JAVA` / `C++` 
 
-Link : [Leetcode](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+
+Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XWOVr8KgHHSTExTZgl354ia)
+
 
 ## WEEK 1
 
