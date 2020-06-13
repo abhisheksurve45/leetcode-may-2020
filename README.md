@@ -16,7 +16,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 ## WEEK 3
 
-[Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+* [Maximum Sum Circular Subarray](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/MaximumSumCircularSubarray.java)
 
 ## WEEK 4
 
