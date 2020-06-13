@@ -26,6 +26,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Online Stock Span](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/OnlineStockSpan.java)
 
+* [Kth Smallest Element in a BST](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/KSmallestElementinBST.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
