@@ -22,6 +22,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Find All Anagrams in a String](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/FindAllAnagramsinString.java)
 
+* [Permutation in String](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/PermutationinString.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
