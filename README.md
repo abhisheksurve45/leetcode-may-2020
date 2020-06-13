@@ -2,7 +2,7 @@
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
-Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XWOVr8KgHHSTExTZgl354ia)
+Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XWOVr8KgHHSTExTZgl354ia), [Naresh Gupta](https://www.youtube.com/playlist?list=PLamEquLLzOtiZz7VdMpVA5a-WK9TUe6JY)
 
 
 ## WEEK 1
