@@ -22,11 +22,11 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Find All Anagrams in a String](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/FindAllAnagramsinString.java)
 
-* [Permutation in String](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/PermutationinString.java)
+* [Permutation in String](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/PermutationinString.java)
 
-* [Online Stock Span](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/OnlineStockSpan.java)
+* [Online Stock Span](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/OnlineStockSpan.java)
 
-* [Kth Smallest Element in a BST](https://github.cosystem/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/KSmallestElementinBST.java)
+* [Kth Smallest Element in a BST](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/KSmallestElementinBST.java)
 
 ## WEEK 4
 
