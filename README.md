@@ -28,6 +28,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Kth Smallest Element in a BST](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/KSmallestElementinBST.java)
 
+* [Count Square Submatrices with All Ones](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/CountSquareSubmatriceswithAllOnes.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
