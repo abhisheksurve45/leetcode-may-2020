@@ -36,6 +36,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Interval List Intersections](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK4/IntervalListIntersections.java)
 
+* [Construct Binary Search Tree from Preorder Traversal](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK4/ConstructBSTfromPreorderTraversal.java)
+
 ## WEEK 5
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
