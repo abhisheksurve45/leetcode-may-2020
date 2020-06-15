@@ -32,7 +32,7 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 ## WEEK 4
 
-[Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+* [Sort Characters By Frequency](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK4/SortCharactersByFrequency.java)
 
 ## WEEK 5
 
