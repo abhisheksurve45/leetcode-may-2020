@@ -40,6 +40,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [Uncrossed Lines](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK4/UncrossedLines.java)
 
+* [Contiguous Array](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK4/ContiguousArray.java)
+
 ## WEEK 5
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
