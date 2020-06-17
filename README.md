@@ -52,4 +52,4 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 * [K Closest Points to Origin](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK5/KClosestPointstoOrigin.java)
 
-* [Edit Distance](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK5/`EditDistance`.java)
+* [Edit Distance](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK5/EditDistance.java)
