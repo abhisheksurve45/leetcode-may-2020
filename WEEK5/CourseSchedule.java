@@ -5,33 +5,37 @@ public class CourseSchedule {
 
     class Solution {
         public boolean canFinish(int numCourses, int[][] prerequisites) {
-            int[] inDegree = new int[numCourses];
-            int count = 0;
 
-            for (int i = 0; i < prerequisites.length; i++) {
-                inDegree[prerequisites[i][0]]++;
+            List<Integer>[] graph = new ArrayList[numCourses];
+            for (int i = 0; i < numCourses; i++) {
+                graph[i] = new ArrayList();
             }
 
-            Stack<Integer> stack = new Stack<Integer>();
+            int[] inDegree = new int[numCourses];
+
+            for (int[] e : prerequisites) {
+                inDegree[e[1]]++;
+                graph[e[0]].add(e[1]);
+            }
+
+            Queue<Integer> q = new LinkedList<Integer>();
 
             for (int i = 0; i < inDegree.length; i++) {
-                if (inDegree[i] == 0)
-                    stack.push(i);
+                if (inDegree[i] == 0) q.add(i);
             }
 
-            while (!stack.isEmpty()) {
-                int curr = stack.pop();
-                count++;
-                for (int i = 0; i < prerequisites.length; i++) {
-                    if (prerequisites[i][1] == curr) {
-                        inDegree[prerequisites[i][0]]--;
-                        if (inDegree[prerequisites[i][0]] == 0)
-                            stack.push(prerequisites[i][0]);
-                    }
+            while (!q.isEmpty()) {
 
+                int curr = q.poll();
+
+                for (int e : graph[curr]) {
+                    inDegree[e]--;
+                    if (inDegree[e] == 0) q.add(e);
                 }
+
+                numCourses--;
             }
-            return count == numCourses;
+            return 0 == numCourses;
         }
     }
 
