@@ -12,6 +12,8 @@ Q. [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcodin
 
 Q. [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/JewelsandStones.java)
 
+Q. [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/RansomNote.java)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
