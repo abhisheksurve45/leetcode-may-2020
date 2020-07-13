@@ -10,6 +10,8 @@ Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?li
 
 Q. [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/FirstBadVersion.java)
 
+Q. [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/JewelsandStones.java)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
