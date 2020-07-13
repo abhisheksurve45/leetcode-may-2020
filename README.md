@@ -20,6 +20,8 @@ Q. [First Unique Character in a String](https://leetcode.com/explore/challenge/c
 
 Q. [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/MajorityElement.java)
 
+Q. [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/CousinsinBinaryTree.java)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
