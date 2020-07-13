@@ -16,6 +16,8 @@ Q. [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-chal
 
 Q. [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/NumberComplement.java)
 
+Q. [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/FirstUniqueCharacterinString.java)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
