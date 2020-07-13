@@ -6,7 +6,7 @@ Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/may-leet
 Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XWOVr8KgHHSTExTZgl354ia), [Naresh Gupta](https://www.youtube.com/playlist?list=PLamEquLLzOtiZz7VdMpVA5a-WK9TUe6JY)
 
 
-## WEEK 1 🚧
+## WEEK 1
 
 Q. [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/FirstBadVersion.java)
 
