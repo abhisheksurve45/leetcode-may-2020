@@ -32,6 +32,8 @@ Q. [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcod
 
 Q. [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/FloodFill.java)
 
+Q. [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/SingleElementinSortedArray.java)
+
 Q. [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/RemoveKDigits.java)
 
 Q. [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/Trie.java)
