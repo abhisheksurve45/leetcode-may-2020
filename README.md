@@ -28,6 +28,8 @@ Q. [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/
 
 Q. [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/ValidPerfectSquare.java)
 
+Q. [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/FindtheTownJudge.java)
+
 ## WEEK 3
 
 * [Maximum Sum Circular Subarray](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK3/MaximumSumCircularSubarray.java)
