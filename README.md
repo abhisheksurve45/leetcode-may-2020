@@ -24,8 +24,9 @@ Q. [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leet
 
 ## WEEK 2
 
-Q. [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/CheckIfStraightLine.java)
+Q. [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/CheckIfStraightLine.java)
 
+Q. [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK2/ValidPerfectSquare.java)
 
 ## WEEK 3
 
