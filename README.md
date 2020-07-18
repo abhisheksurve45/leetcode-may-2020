@@ -24,7 +24,7 @@ Q. [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leet
 
 ## WEEK 2
 
-[Coming up!](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+Q. [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-may-2020/blob/master/WEEK1/CheckIfStraightLine.java)
 
 
 ## WEEK 3
