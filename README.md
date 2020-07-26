@@ -1,4 +1,4 @@
-# Solutions for Leetcode May 2020 in `JAVA` | <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksurve45.leetcode-may-2020" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/leetcode-may-2020/master)
+# Solutions for Leetcode May 2020 in `JAVA` | <img src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.leetcode-may-2020" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/leetcode-may-2020/master)
 
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
